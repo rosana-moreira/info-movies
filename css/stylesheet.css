@@ -27,7 +27,7 @@ p {
 
 .container {
     width: 450px;
-    height: 570px;
+    height: 600px;
     margin: 20px;
     background: white;
     border-radius: 10px;
@@ -37,7 +37,7 @@ p {
 .poster {
     border-radius: 10px;
     width: 400px;
-    height: 250px;
+    height: 350px;
     margin-top: 25px;
     margin-left: 25px;
     margin-right: 25px;
@@ -105,7 +105,7 @@ p {
 .poster {
     border-radius: 10px;
     width: 400px;
-    height: 250px;
+    height: 350px;
     margin-top: 25px;
     margin-left: 25px;
     margin-right: 25px;
